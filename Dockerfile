@@ -36,7 +36,7 @@ RUN set -x && \
         perl-file-copy-recursive \
         perl-io-socket-ssl \
         perl-json \
-        perl-mime-words \
+        perl-mime-tools \
         perl-net-ldap \
         perl-path-class \
         perl-term-readkey \
